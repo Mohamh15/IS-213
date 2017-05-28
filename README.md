@@ -73,10 +73,10 @@ We appreciate all types of contributors that wish to help us in this project. Pr
 #### No Code Related Contribution
 The following contributions are needed that are not code related: 
 
-###### Artwork 
+##### Artwork 
 * Currently the artwork being used are the standard options that come with Xcode, we would appreciate if there were more options available for people to choose between. Some high priority implementations that we would like to implement within our project are different types of themes,and a night/day versions. 
 
-###### Documenation
+##### Documenation
 
 * We require contributers that are willing to help us on our [Wiki!](https://github.com/maghov/IS-213/wiki) page. Currently, all the information about this project is written on this ReadMe file, but we would like to have better documantion that documents each aspect of our project. 
 
